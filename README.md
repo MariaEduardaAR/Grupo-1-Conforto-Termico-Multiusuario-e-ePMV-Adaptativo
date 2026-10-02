@@ -28,13 +28,8 @@ Os dados são organizados para posterior utilização na **modelagem e simulaç�
 
 O laboratório foi dividido em seis regiões:
 
-```text
-R1 | R2
----+---
-R3 | R4
----+---
-R5 | R6
-```
+<img width="1362" height="784" alt="Lab arq" src="https://github.com/user-attachments/assets/f22aeaec-0b8f-4695-9a4a-57459cf29d87" />
+
 
 ## Coleta
 
