@@ -19,13 +19,8 @@ Os dados são organizados para posterior utilização na **modelagem e simulaç�
 ## Estrutura
 
 ```text
-├── dados/
-│   ├── questionarios/
-│   ├── schedules/
-│   └── resultados/
-├── documentos/
-├── imagens/
-├── scripts/
+├── Grupo1_Schedules_met_clo_ASHRAE55.xlsx
+├── Relatório.pdf
 └── README.md
 ```
 
