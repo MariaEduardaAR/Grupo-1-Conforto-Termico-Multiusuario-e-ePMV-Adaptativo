@@ -1,0 +1,11 @@
+
+# Ambiente Python e arquivos temporários
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Configurações locais
+.env
+.env.*
+!.env.example
