@@ -8,7 +8,7 @@ services:
     environment:
       - DOCKER_INFLUXDB_INIT_MODE=setup
       - DOCKER_INFLUXDB_INIT_USERNAME=admin
-      - DOCKER_INFLUXDB_INIT_PASSWORD=admin
+      - DOCKER_INFLUXDB_INIT_PASSWORD=admin1234
       - DOCKER_INFLUXDB_INIT_ORG=ufc_quixada
       - DOCKER_INFLUXDB_INIT_BUCKET=instrumentacao_2026
       - DOCKER_INFLUXDB_INIT_ADMIN_TOKEN=token-api-grupo1-2026
