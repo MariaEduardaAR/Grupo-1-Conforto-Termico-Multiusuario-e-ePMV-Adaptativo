@@ -9,3 +9,7 @@ __pycache__/
 .env
 .env.*
 !.env.example
+
+# Dados locais e resultados gerados
+dados/
+resultados/
